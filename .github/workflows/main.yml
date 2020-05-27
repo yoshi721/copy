@@ -24,4 +24,4 @@ jobs:
         host:  95.216.153.136
         password: kerneli386
         local: test/
-        remote: /root/test
+        remote: /root/test1
